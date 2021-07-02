@@ -1,1 +1,2 @@
-Will make the webserver available to everyone soon.
+This is the temporary webserver and it is for now uncomplete, will keep working on it on free time.
+
